@@ -1,0 +1,102 @@
+body{
+  font-family:"Montserrat";
+}
+#title{
+  background-color:#E93B81;
+  color:#fff;
+}
+h1{
+  font-family: 'Montserrat-black', sans-serif;
+  font-size:3rem;
+  line-height: 1.5;
+}
+h2{
+  font-family: "Montserrat-black";
+  font-size:3 rem;
+  line-height:1.5;
+}
+h3{
+  font-family: "Montserrat-bolder";
+}
+p{
+  color: #8f8f8f;
+}
+.container-fluid{
+  padding:5% 15%;
+}
+.navbar{
+  padding-bottom: 2.5rem;
+}
+.navbar-brand{
+  font-family: "ubantu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+.nav-item{
+  padding:0 15%;
+}
+.download-buton{
+  margin:5% 3% 5% 0;
+}
+.dog-image{
+  margin:15%;
+  border-radius: 50px;
+
+}
+#features{
+  padding:7% 15%;
+}
+.feature-box{
+  text-align: center;
+
+  padding:5%;
+}
+.icon{
+ color: #E93B81;
+}
+.icon:hover{
+  color:#FF00C8;
+}
+#testimonials{
+  padding:7% 15%;
+  text-align:center;
+  background-color:#E93B81 ;
+  color: #fff;
+}
+.testimonial-image{
+  width:20%;
+  border-radius: 100%;
+  margin:20px;
+}
+#press{
+  background-color:#E93B81;
+  padding-bottom: 3%;
+  text-align: center;
+}
+.press-logo{
+  width: 15%;
+  margin:20px 20px 50px 50px;
+
+}
+
+#pricing{
+  padding:100px;
+  text-align:center;
+}
+#cta{
+background-color: #E93B81;
+text-align: center;
+padding:10px;
+color: #ffff;
+
+}
+footer{
+  margin-top: 20px;
+text-align: center;
+}
+.last{
+  text-align: center;
+}
+.social-icon{
+  margin:20px 10px;
+}
